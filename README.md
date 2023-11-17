@@ -1,11 +1,15 @@
-# typescript-sandbox
+# Módulo 3 - Variables - Laboratorio
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+## Para completar el ejercicio he realizado los siguientes pasos:
 
-Pasos:
+1-He clonado el repositorio del sandbox TS desde gitHuB
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+2-En el archivo main.js he borrado el contenido para generar el siguiente código:
+    ·Una interface para tipar los datos
+    ·Una variable para declarar los estilos css
+    ·Una costante por grupo musical para crear un objeto con los datos
+
+3-Finalmente he generado por cada grupo musical:
+    ·console.log para el titulo con estilado
+    ·console.log para mostrar los datos del objeto    
+    
